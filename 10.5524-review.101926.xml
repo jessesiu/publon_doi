@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+<identifier identifierType="DOI">10.5524/review.101926</identifier>
+<creators>
+<creator>
+<creatorName>Michael Hiller</creatorName>
+</creator>
+</creators>
+<titles>
+<title>Peer review of "Chromosome-level assembly of the mustache toad genome using third-generation DNA sequencing and Hi-C analysis"</title>
+</titles>
+<publisher>GigaScience</publisher>
+<publicationYear>2019</publicationYear>
+<subjects>
+<subject>Peer review</subject>
+</subjects>
+<language>eng</language>
+<dates>
+<date dateType="Submitted">2019-09-23</date>
+</dates>
+<resourceType resourceTypeGeneral="Text">Peer review</resourceType>
+<relatedIdentifiers>
+<relatedIdentifier relatedIdentifierType="DOI" relationType="Reviews">10.1093/gigascience/giz114</relatedIdentifier>
+</relatedIdentifiers>
+<rightsList>
+<rights rightsURI="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution-4.0 International (CC-BY 4.0)</rights>
+</rightsList>
+<descriptions>
+<description descriptionType="Other">This is the open peer reviewers comments and recommendations regarding the submitted GigaScience article and/or dataset.</description>
+</descriptions>
+</resource>
