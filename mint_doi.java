@@ -188,7 +188,7 @@ public class mint_doi {
 			httpurlconnection1.setRequestMethod("POST");
 			httpurlconnection1.setRequestProperty("Content-type", "text/plain");
 			httpurlconnection1.setRequestProperty("Charset", "UTF-8");
-			String username = "CNGB.GIGADB:GigaDB2018";
+			String username = "username:password";
 
 			byte[] encoding = Base64.encodeBase64(username.getBytes());
 			httpurlconnection1.setRequestProperty("Authorization", "Basic " + new String(encoding));
