@@ -1,8 +1,8 @@
-## Mint the DOI for Publon peer review
+# Mint the DOI for Publon peer review
 
-# Requirement
+## Requirement
 
-JDK 1.7 and apache.poi jar 
+JDK 1.7 and import jars in the lib directory
 
 ```java
 import org.apache.commons.codec.binary.Base64;
@@ -17,3 +17,6 @@ import org.apache.poi.ss.usermodel.Row;
 sep2-2019.xls is the example spreadsheet for all reviews in Sep 2019.
 
 doi is the file to record start doi number.
+
+## Notice
+Use DataCite test account and prefix to run it
